@@ -1,4 +1,3 @@
-# PGDO_Proj3
 <h1>Project: <i>Build a Docker Jenkins Pipeline to Implement CI/CD Workflow</i> </h1> </br>
 
 
@@ -37,7 +36,7 @@ Click [here](https://github.com/vdharmaraj/PGDO_Proj3/blob/681fdb351bdec410700e1
 <h2>Mandatory changes to be made in Jenkinsfile when you want to use this project</h2>
 
 1. Its mandatory to change the Docker Hub Account ID after this Repo is forked/cloned by an other person</br>
-    def dockerhubaccountid = "vikidvg"</br>
+    def dockerhubaccountid = "emjay888"</br>
     
 
 2. To push image to remote repository , in your jenkins server you have to create the global credentials similar to the 'dockerHub' (credential ID)</br>
